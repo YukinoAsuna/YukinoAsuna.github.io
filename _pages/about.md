@@ -9,7 +9,7 @@ redirect_from:
 ---
 <h1 class="main-heading">Hi there <img src="images/Hi.gif" width="40px"> Welcome to my Homepage!</h1>
 
-I am **Zixuan Weng**, a Ph.D. student in Computer Science and Engineering at the **Georgia Institute of Technology**, advised by [Prof. Ling Liu](https://faculty.cc.gatech.edu/~lingliu/). I received my B.Eng. in Computer Science and Technology from **Beijing Jiaotong University** in 2024.
+I am **Zixuan Weng**, a Ph.D. student in Computer Science at the **Georgia Institute of Technology**, advised by [Prof. Ling Liu](https://faculty.cc.gatech.edu/~lingliu/). I received my B.Eng. in Computer Science and Technology from **Beijing Jiaotong University** in 2024.
 
 My research interests include large language model safety, agent safety, and agentic reinforcement learning. Feel free to [contact me](mailto:zxweng0701@gmail.com) about research collaboration and academic opportunities.
 
@@ -35,7 +35,7 @@ Education
       <div class="experience-info">
           <strong><a href="https://www.gatech.edu/">Georgia Institute of Technology</a></strong><br>
           <em>Aug. 2026 - Present</em><br>
-          Ph.D. in Computer Science and Engineering<br>
+          Ph.D. in Computer Science<br>
           <span style="color:#888;">Advisor: <a href="https://faculty.cc.gatech.edu/~lingliu/">Prof. Ling Liu</a></span>
       </div>
   </div>
