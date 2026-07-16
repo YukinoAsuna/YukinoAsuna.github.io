@@ -14,11 +14,12 @@ author:
   bio              : "Ph.D. student working on trustworthy AI and machine learning."
   location         : "Atlanta, GA"
   employer         : "Georgia Institute of Technology"
+  employer_url     : "https://www.gatech.edu/"
   uri              :
   email            : "zxweng0701@gmail.com"
 
   arxiv            :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?view_op=search_authors&mauthors=Zixuan+Weng&hl=en"
   impactstory      :
   orcid            :
   semantic         :
@@ -33,7 +34,7 @@ author:
   stackoverflow    :
 
   WeChat           :
-  linkedin         :
+  linkedin         : "zixuan-weng-a4a8012b7"
   bilibili         :
   twitter          :
   youtube          :

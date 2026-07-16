@@ -30,9 +30,9 @@ Education
 
 <div class="experience-container">
   <div class="experience-card">
-      <img src="images/mit.png" alt="Georgia Institute of Technology" class="experience-logo">
+      <img src="images/georgia-tech-logo.png" alt="Georgia Institute of Technology logo" class="experience-logo">
       <div class="experience-info">
-          <strong>Georgia Institute of Technology</strong><br>
+          <strong><a href="https://www.gatech.edu/">Georgia Institute of Technology</a></strong><br>
           <em>Aug. 2026 - Present</em><br>
           Ph.D. in Computer Science and Engineering<br>
           <span style="color:#888;">Advisor: <a href="https://faculty.cc.gatech.edu/~lingliu/">Prof. Ling Liu</a></span>
@@ -40,9 +40,9 @@ Education
   </div>
 
   <div class="experience-card">
-      <img src="images/weijia.png" alt="Beijing Jiaotong University" class="experience-logo">
+      <img src="images/beijing-jiaotong-logo.png" alt="Beijing Jiaotong University logo" class="experience-logo">
       <div class="experience-info">
-          <strong>Beijing Jiaotong University</strong><br>
+          <strong><a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University</a></strong><br>
           <em>Sept. 2020 - Jun. 2024</em><br>
           B.Eng. in Computer Science and Technology
       </div>

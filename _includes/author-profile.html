@@ -30,8 +30,13 @@
         <li class="author__desktop"><a href="https://www.google.com/maps/search/?api=1&query={{ location_query }}" target="_blank" rel="noopener"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</a></li>
       {% endif %}
       {% if author.employer %}
-        {% assign employer_query = author.employer | url_encode %}
-        <li class="author__desktop author__contact"><a href="https://www.google.com/search?q={{ employer_query }}" target="_blank" rel="noopener"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</a></li>
+        {% if author.employer_url %}
+          {% assign employer_link = author.employer_url %}
+        {% else %}
+          {% assign employer_query = author.employer | url_encode %}
+          {% assign employer_link = "https://www.google.com/search?q=" | append: employer_query %}
+        {% endif %}
+        <li class="author__desktop author__contact"><a href="{{ employer_link }}" target="_blank" rel="noopener"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</a></li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
