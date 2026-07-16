@@ -55,7 +55,7 @@ Publications
 <button class="pub-button active" onclick="filterPublications(event, 'all')">Core Publications</button>
 <button class="pub-button" onclick="filterPublications(event, 'list')">Full Publications List</button>
 
-(* equal contribution)
+<sup>*</sup> Equal contribution.
 
 <div id="core-publications" class="publication-view" data-publication-view="core">
 <div class="publication-card" data-category="all">
@@ -65,7 +65,7 @@ Publications
     </div>
     <div>
       <strong>FineSteer: A Unified Framework for Fine-grained Inference-time Steering in Large Language Models</strong><br>
-      <i style="font-size: 13px;"><strong>Zixuan Weng</strong>, Jinghuai Zhang, Kunlin Cai, Ying Li, Peiran Wang, Yuan Tian.</i><br>
+      <i style="font-size: 13px;"><strong>Zixuan Weng<sup>*</sup></strong>, Jinghuai Zhang<sup>*</sup>, Kunlin Cai, Ying Li, Peiran Wang, Yuan Tian.</i><br>
       A unified framework for constructing fine-grained, query-specific steering vectors for large language models.<br>
       <b><i style="color:#83a1c7;">ACL 2026 Oral (Top 4%) &nbsp;</i></b>
       <a href="https://arxiv.org/abs/2604.15488"><em>[paper]</em></a>
@@ -80,7 +80,7 @@ Publications
     </div>
     <div>
       <strong>Foot-In-The-Door: A Multi-turn Jailbreak for LLMs</strong><br>
-      <i style="font-size: 13px;"><strong>Zixuan Weng</strong>, Xiaolong Jin, Jinyuan Jia, Xiangyu Zhang.</i><br>
+      <i style="font-size: 13px;"><strong>Zixuan Weng<sup>*</sup></strong>, Xiaolong Jin<sup>*</sup>, Jinyuan Jia, Xiangyu Zhang.</i><br>
       A multi-turn jailbreak strategy motivated by the Foot-In-The-Door phenomenon.<br>
       <b><i style="color:#83a1c7;">EMNLP 2025 Oral (Top 4%) &nbsp;</i></b>
       <a href="https://aclanthology.org/2025.emnlp-main.100.pdf"><em>[paper]</em></a>
@@ -106,8 +106,8 @@ Publications
 
 <div id="full-publications" class="publication-view" data-publication-view="list" hidden>
   <ol class="full-publication-list">
-    <li><span class="pub-list-badge">ACL 2026</span> <span class="pub-list-title">FineSteer: A Unified Framework for Fine-grained Inference-time Steering in Large Language Models.</span><br><span class="pub-list-authors"><strong>Zixuan Weng</strong>, Jinghuai Zhang, Kunlin Cai, Ying Li, Peiran Wang, Yuan Tian.</span> <span class="pub-list-note">Oral, Top 4%.</span> <span class="pub-list-links"><a href="https://arxiv.org/abs/2604.15488">[paper]</a></span></li>
-    <li><span class="pub-list-badge">EMNLP 2025</span> <span class="pub-list-title">Foot-In-The-Door: A Multi-turn Jailbreak for LLMs.</span><br><span class="pub-list-authors"><strong>Zixuan Weng</strong>, Xiaolong Jin, Jinyuan Jia, Xiangyu Zhang.</span> <span class="pub-list-note">Oral, Top 4%.</span> <span class="pub-list-links"><a href="https://aclanthology.org/2025.emnlp-main.100.pdf">[paper]</a></span></li>
+    <li><span class="pub-list-badge">ACL 2026</span> <span class="pub-list-title">FineSteer: A Unified Framework for Fine-grained Inference-time Steering in Large Language Models.</span><br><span class="pub-list-authors"><strong>Zixuan Weng<sup>*</sup></strong>, Jinghuai Zhang<sup>*</sup>, Kunlin Cai, Ying Li, Peiran Wang, Yuan Tian.</span> <span class="pub-list-note">Oral, Top 4%.</span> <span class="pub-list-links"><a href="https://arxiv.org/abs/2604.15488">[paper]</a></span></li>
+    <li><span class="pub-list-badge">EMNLP 2025</span> <span class="pub-list-title">Foot-In-The-Door: A Multi-turn Jailbreak for LLMs.</span><br><span class="pub-list-authors"><strong>Zixuan Weng<sup>*</sup></strong>, Xiaolong Jin<sup>*</sup>, Jinyuan Jia, Xiangyu Zhang.</span> <span class="pub-list-note">Oral, Top 4%.</span> <span class="pub-list-links"><a href="https://aclanthology.org/2025.emnlp-main.100.pdf">[paper]</a></span></li>
     <li><span class="pub-list-badge">KDD 2025</span> <span class="pub-list-title">SDE: A Simplified and Disentangled Dependency Encoding Framework for State Space Models in Time Series Forecasting.</span><br><span class="pub-list-authors"><strong>Zixuan Weng</strong>, Jindong Han, Wenzhao Jiang, Hao Liu.</span> <span class="pub-list-links"><a href="https://arxiv.org/abs/2408.12068">[paper]</a></span></li>
     <li><span class="pub-list-badge">ICCV 2025</span> <span class="pub-list-title">JailbreakDiffBench: A Comprehensive Benchmark for Jailbreaking Diffusion Models.</span><br><span class="pub-list-authors">Xiaolong Jin, <strong>Zixuan Weng</strong>, Hanxi Guo, Siyuan Cheng, Guangyu Shen, Chenlong Yin, Xiangyu Zhang.</span> <span class="pub-list-links"><a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Jin_JailbreakDiffBench_A_Comprehensive_Benchmark_for_Jailbreaking_Diffusion_Models_ICCV_2025_paper.pdf">[paper]</a></span></li>
     <li><span class="pub-list-badge">WWW 2024</span> <span class="pub-list-title">Towards Deeper Understanding of PPR-based Embedding Approaches: A Topological Perspective.</span><br><span class="pub-list-authors">Xingyi Zhang, <strong>Zixuan Weng</strong>, Sibo Wang.</span> <span class="pub-list-note">Oral, Top 9%.</span> <span class="pub-list-links"><a href="https://dl.acm.org/doi/abs/10.1145/3589334.3645663">[paper]</a></span></li>
