@@ -17,11 +17,12 @@ News
 ---------------
 <div class="news-box">
   <ul class="news-list">
-    <li><span class="news-date"><em>2026</em></span> FineSteer was accepted to ACL 2026 as an oral paper (Top 4%).</li>
-    <li><span class="news-date"><em>2025.11</em></span> Foot-In-The-Door was presented at EMNLP 2025 as an oral paper (Top 4%).</li>
-    <li><span class="news-date"><em>2025</em></span> Recognized as a KDD Outstanding Reviewer (Top 10%).</li>
-    <li><span class="news-date"><em>2025</em></span> SDE was published at KDD 2025, and JailbreakDiffBench was published at ICCV 2025.</li>
-    <li><span class="news-date"><em>2024</em></span> Our work on PPR-based embeddings was presented orally at WWW 2024 (Top 9%).</li>
+    <li><span class="news-date"><em>2026.04</em></span> FineSteer was accepted to ACL 2026 as an oral paper (Top 4%).</li>
+    <li><span class="news-date"><em>2025.08</em></span> Foot-In-The-Door was accepted to EMNLP 2025 as an oral paper (Top 4%).</li>
+    <li><span class="news-date"><em>2025.08</em></span> Recognized as a KDD Outstanding Reviewer (Top 10%).</li>
+    <li><span class="news-date"><em>2025.06</em></span> JailbreakDiffBench was accepted to ICCV 2025.</li>
+    <li><span class="news-date"><em>2024.11</em></span> SDE was accepted to KDD 2025.</li>
+    <li><span class="news-date"><em>2024.02</em></span> Our work on PPR-based embeddings was accepted to WWW 2024 as an oral paper (Top 9%).</li>
   </ul>
 </div>
 
@@ -122,7 +123,7 @@ Experience
 --------------
 
 ### VLM Red-Teaming (Talent Program), ByteDance
-*Talent Program (Jindouyun) Intern, advised by Bai Yang | Sep. 2025 - May 2026*
+*Talent Program (Jindouyun) Intern, advised by [Bai Yang](https://bymavis.github.io/) | Sep. 2025 - May 2026*
 
 - Conducted red-teaming for Doubao and Volcano Ark.
 - Built a security assessment platform for the technology middle platform.
