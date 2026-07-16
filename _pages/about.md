@@ -123,7 +123,7 @@ Experience
 --------------
 
 ### VLM Red-Teaming (Talent Program), ByteDance
-*Talent Program (Jindouyun) Intern, advised by [Bai Yang](https://bymavis.github.io/) | Sep. 2025 - May 2026*
+*Talent Program (Jindouyun) Intern, advised by [Yang Bai](https://bymavis.github.io/) | Sep. 2025 - May 2026*
 
 - Conducted red-teaming for Doubao and Volcano Ark.
 - Built a security assessment platform for the technology middle platform.
