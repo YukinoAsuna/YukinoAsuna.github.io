@@ -285,3 +285,64 @@
     padding-right: 0;
   }
 }
+
+/* Keep the primary profile links visible on phones instead of hiding them
+   behind the theme's Follow dropdown. */
+@media screen and (max-width: 1023px) {
+  .author-profile {
+    display: grid;
+    grid-template-columns: 36px minmax(0, 1fr);
+    column-gap: 15px;
+    align-items: start;
+  }
+
+  .author-profile .author__avatar,
+  .author-profile .author__content {
+    display: block;
+  }
+
+  .author-profile .author__content {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .author-profile .author__urls-wrapper {
+    display: block;
+    grid-column: 1 / -1;
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .author-profile .author__urls-wrapper > button {
+    display: none;
+  }
+
+  .author-profile .author__urls {
+    display: flex !important;
+    position: static;
+    flex-wrap: wrap;
+    gap: 4px 18px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+
+  .author-profile .author__urls::before,
+  .author-profile .author__urls::after {
+    display: none;
+  }
+
+  .author-profile .author__urls li {
+    flex: 0 1 auto;
+  }
+
+  .author-profile .author__urls a,
+  .author-profile .author__urls span {
+    margin-bottom: 0;
+    padding: 3px 0;
+    font-size: 0.95em;
+  }
+}
