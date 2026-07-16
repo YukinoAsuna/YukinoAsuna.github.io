@@ -185,6 +185,10 @@
   display: block;
 }
 
+.author__urls-wrapper--always-visible .author__urls {
+  display: block !important;
+}
+
 .author__urls {
   display: none;
   position: absolute;
