@@ -61,7 +61,7 @@ Publications
 <div class="publication-card" data-category="all">
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
-      <img src="images/sleep.png" alt="FineSteer" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
+      <img src="images/finesteer-overview.png" alt="FineSteer framework overview" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
     </div>
     <div>
       <strong>FineSteer: A Unified Framework for Fine-grained Inference-time Steering in Large Language Models</strong><br>
@@ -76,7 +76,7 @@ Publications
 <div class="publication-card" data-category="all">
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
-      <img src="images/gpu.png" alt="Foot-In-The-Door" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
+      <img src="images/fitd-framework.png" alt="Foot-In-The-Door framework" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
     </div>
     <div>
       <strong>Foot-In-The-Door: A Multi-turn Jailbreak for LLMs</strong><br>
@@ -91,7 +91,7 @@ Publications
 <div class="publication-card" data-category="all">
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
-      <img src="images/noodle.png" alt="SDE" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
+      <img src="images/sde-framework.png" alt="SDE framework" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
     </div>
     <div>
       <strong>SDE: A Simplified and Disentangled Dependency Encoding Framework for State Space Models in Time Series Forecasting</strong><br>
